@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/test-shop/",
+    "build": "vite build --base=/bc_75_-vitalii-mieliet-2/",
     "preview": "vite preview"
   },
   "devDependencies": {
